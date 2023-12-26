@@ -25,5 +25,14 @@ public class Program1
         string s = "123.45";
         float f = Convert.ToSingle(s);
         Console.WriteLine(f);
+
+        /*use parse*/
+        string s1 = "123.45";
+        float f1 = float.Parse(s1);
+        double d1 = double.Parse(s1);
+        int i2 = int.Parse(s1);
+        Console.WriteLine(f1);
+        Console.WriteLine(d1);
+        Console.WriteLine(i2);
     }
 }

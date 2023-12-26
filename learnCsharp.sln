@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learnCsharp", "learnCsharp.csproj", "{10B77A02-70D9-4C64-80BB-47506D12BBC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learnCsharp", "main\learnCsharp.csproj", "{10B77A02-70D9-4C64-80BB-47506D12BBC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "understand_types", "understand_types\understand_types.csproj", "{C76BBE56-6245-417B-A406-8F31D7CA5316}"
 EndProject
